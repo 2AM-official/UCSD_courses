@@ -7,3 +7,4 @@ Courses I took in UC San Diego and their courseworks
 |CSE120 Principles of Computer Operating Systems|Yiying Zhang|2021 fall|
 |CSE230 Principles of Programming Languages|Ranjit Jhala|2021 fall|
 ||||
+|CSE224 Graduated Networked Systems|George Porter|2022 winter|
